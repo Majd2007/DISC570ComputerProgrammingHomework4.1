@@ -16,7 +16,7 @@ print(z)
 
 print(y)
 
-##**Q.2:**
+## **Q.2:**
 
 length= int(input("Enter the length of the rectangle"))
 
@@ -26,7 +26,7 @@ Area = length*width
 
 print(Area)
 
-##**Q.3:**
+## **Q.3:**
 
 friends_number= int(input("Enter the freinds number"))
 
