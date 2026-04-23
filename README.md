@@ -37,5 +37,6 @@ z = friends_number/choclatesowned
 print("each freind gets:", z, "each")
 
 y = choclatesowned - z
+
 print("you will have", y, "chocolates left")
 
